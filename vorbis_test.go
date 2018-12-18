@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	httpclient "github.com/ddliu/go-httpclient"
-	flac "github.com/go-flac/go-flac"
+	flac "github.com/jdrivas/go-flac"
 )
 
 func TestNewVorbisComment(t *testing.T) {

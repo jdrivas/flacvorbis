@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strings"
 
-	flac "github.com/go-flac/go-flac"
+	flac "github.com/jdrivas/go-flac"
 )
 
 type MetaDataBlockVorbisComment struct {
